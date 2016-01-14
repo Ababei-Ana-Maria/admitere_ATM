@@ -13,5 +13,20 @@ namespace QUIZ_ATM
         {
 
         }
+        //Log in
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+
+        }
+        //Guest
+        protected void Button3_Click(object sender, EventArgs e)
+        {
+
+        }
+        //Creare cont
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
